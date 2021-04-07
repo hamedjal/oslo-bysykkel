@@ -1,9 +1,9 @@
-<div align="center"><img src="/public/oslobysykkel-logo" width="150"></div>
+<div align="center"><img src="/public/oslobysykkel-logo.png" width="150"></div>
 
 <h3>Oslo City Bike</h3>
 
-React web application to show the number of available Bikes and Docks with Station Name, using Oslo City Bike API.
-The information is updated every 2 seconds!
+A simple React Web Application to show the number of available Bikes and Docks with Station Name, using Oslo City Bike API.
+The information is updated every 10 seconds!
 
 ## Available Scripts
 
